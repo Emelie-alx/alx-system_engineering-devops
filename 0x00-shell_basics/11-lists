@@ -1,2 +1,2 @@
-#!/bin/balsh
+#!/bin/bash
 ls -al . .. /boot
